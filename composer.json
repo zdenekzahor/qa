@@ -1,0 +1,17 @@
+{
+    "name": "zdenekzahor/qa",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Zdeněk Zahoř",
+            "email": "zdenek.zahor@gmail.com"
+        }
+    ],
+    "require": {
+        "slevomat/coding-standard": "^7",
+        "squizlabs/php_codesniffer": "^3"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
